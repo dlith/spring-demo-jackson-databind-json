@@ -4,7 +4,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.File;
 
-public class MainDriver {
+public class MainLiteDriver {
 
     public static void main(String[] args) {
         try{

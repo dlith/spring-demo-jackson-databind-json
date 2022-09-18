@@ -11,6 +11,6 @@ public class Student {
     private String firstName;
     private String lastName;
     private boolean active;
-
-
+    private Address address;
+    private String[] languages;
 }
